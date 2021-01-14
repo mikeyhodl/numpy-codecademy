@@ -27,6 +27,3 @@ double_batch = cupcakes ** 2
 grocery_list = cookies + double_batch
 
 print(grocery_list)
-
-
-
