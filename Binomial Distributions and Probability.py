@@ -9,6 +9,3 @@ b_test_emails = np.mean(emails >= 40)
 print(no_emails)
 
 print(b_test_emails)
-
-
-
