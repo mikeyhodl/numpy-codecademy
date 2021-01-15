@@ -18,4 +18,3 @@ print(pumpkin_std)
 print(acorn_squash_std)
 
 winner = pumpkin
-
