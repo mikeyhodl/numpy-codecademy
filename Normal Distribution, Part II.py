@@ -19,4 +19,3 @@ plt.show()
 mystery_dino = "brachiosaurus"
 
 answer = False
-
